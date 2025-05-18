@@ -276,19 +276,19 @@ img {
 }
 
 .road{
-   background:url(/assets/images/road-infra.jpeg);
+   background:url(../images/road-infra.jpeg);
      background-position:center center;
   background-size:cover;
 }
 
 .industrial{
-   background:url(/assets/images/industrial.jpg);
+   background:url(../images/industrial.jpg);
      background-position:center center;
   background-size:cover;
 }
 
 .construction{
-   background:url(/assets/images/construction.jpg);
+   background:url(../images/construction.jpg);
      background-position:center center;
   background-size:cover;
 }
